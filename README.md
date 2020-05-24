@@ -10,16 +10,16 @@ Steps:
 4. `VSCode + extensions`
 
 ## 
-```
+```bash
 xcode-select --install
 ```
 
 ### Install brew ###
 
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-```
+```bash
 brew update
 ```
 
@@ -31,12 +31,12 @@ brew install bash
 ```
 
 Locate where your bash is installed
-```
+```bash
 which bash
 ```
 
 Edit that file by entering this command
-```
+```bash
 sudo nano /etc/shells
 ```
 
@@ -44,12 +44,12 @@ Comment out all shell by default and add current location of latest bash version
 `/usr/local/bin/bash`
 
 Last but not least, change shell with this command:
-```
+```bash
 chsh -s /usr/local/bin/bash
 ```
 
 ### iTerm2 profile preferences
-```
+```bash
 brew cask install iterm2
 ```
 * General > Working Directory > Reuse previous session's directory
@@ -59,25 +59,25 @@ brew cask install iterm2
 * Keys > Natural text editing
 
 ### useless (but funny)
-```
+```bash
 brew install fortune
 ```
-```
+```bash
 brew install cowsay
 ```
-```
+```bash
 brew cask install alfred
 ```
 latest version of git
-```
+```bash
 brew install git
 ```
 version control information in your prompt.
-```
+```bash
 brew install vcprompt
 ```
 
-```
+```bash
 brew cask install visual-studio-code
 ```
 
