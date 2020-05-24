@@ -86,7 +86,7 @@ brew cask install visual-studio-code
 If you wanna automate this process, create a vs-extensions.txt and put in every extensions you want. 
 
 Then, you can automate your process by using this following command:
-```
+```bash
 while read line; do --install-extension "$line"; done < vs-extensions.txt
 ```
 * Andromeda Theme
