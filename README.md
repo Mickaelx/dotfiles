@@ -1,16 +1,18 @@
 # OXs bash profile
 
+Steps: 
 1. `HomeBrew`
 
 2. `iTerm2 & tweaking it a bit`
 
 3. `VSCode + extensions`
 
+## 
 ```
 xcode-select --install
 ```
 
-### install brew
+### Install brew
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
