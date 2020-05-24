@@ -1,4 +1,4 @@
-# OXs bash profile
+# OXs bash profile #
 
 Steps: 
 1. `HomeBrew`
@@ -14,7 +14,7 @@ Steps:
 xcode-select --install
 ```
 
-### Install brew
+### Install brew ###
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
