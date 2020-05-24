@@ -1,5 +1,5 @@
 # OXs bash profile
  
-# HomeBrew
-# iTerm2
-# VSCode + extensions
+HomeBrew
+iTerm2
+VSCode + extensions
