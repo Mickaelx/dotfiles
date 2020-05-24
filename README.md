@@ -1,10 +1,11 @@
 # OXs bash profile
- 
-`HomeBrew`
 
-`iTerm2`
+## 
+1. `HomeBrew`
 
-`VSCode + extensions`
+2. `iTerm2 & tweaking it a bit`
+
+3. `VSCode + extensions`
 
 ```
 xcode-select --install
