@@ -1,6 +1,6 @@
 xcode-select --install
 
-#install brew
+# install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew update
 
@@ -12,10 +12,21 @@ brew cask install iterm2
 # Window > Transparency + blur 
 # Keys > Natural text editing
 
-#useless (but funny)
+# useless (but funny)
 brew install fortune 
 brew install cowsay
-#latest version of git
+# latest version of git
 brew install git 
-#version control information in your prompt.
+# version control information in your prompt.
 brew install vcprompt 
+
+brew cask install visual-studio-code
+# update VSCode
+# Install VSCode extensions
+# Andromeda Theme
+# Live Server
+# Material Icon Theme
+# PHP DocBlocker (Neil Brayfield)
+# PHP Intelephense (Ben Mewburn)
+# PHP Namespace Resolver (Mehedi Hassan)
+# Twig Language 2 (mblode)
