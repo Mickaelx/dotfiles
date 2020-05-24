@@ -61,7 +61,7 @@ brew cask install iterm2
 ### useful
 
 ```bash
-npm install tldr
+npm install -g tldr
 ```
 
 ### useless (but funny)
