@@ -58,6 +58,12 @@ brew cask install iterm2
 * Window > Transparency + blur 
 * Keys > Natural text editing
 
+### useful
+
+```bash
+npm install tldr
+```
+
 ### useless (but funny)
 ```bash
 brew install fortune
