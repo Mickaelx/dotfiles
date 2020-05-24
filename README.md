@@ -26,7 +26,7 @@ brew update
 ### Changing default shell to bash
 
 Install latest version of bash on your machine
-```
+```bash
 brew install bash
 ```
 
