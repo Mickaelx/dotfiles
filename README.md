@@ -6,14 +6,22 @@
 
 `VSCode + extensions`
 
-```xcode-select --install```
+```
+xcode-select --install
+```
 
 ### install brew
 
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
-```brew update```
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+```
+brew update
+```
 
-```brew cask install iterm2```
+```
+brew cask install iterm2
+```
 ### iTerm2 profile preferences
 
 * General > Working Directory > Reuse previous session's directory
@@ -23,14 +31,24 @@
 * Keys > Natural text editing
 
 ### useless (but funny)
-```brew install fortune```
-```brew install cowsay```
+```
+brew install fortune
+```
+```
+brew install cowsay
+```
 latest version of git
-```brew install git```
+```
+brew install git
+```
 version control information in your prompt.
-```brew install vcprompt```
+```
+brew install vcprompt
+```
 
-```brew cask install visual-studio-code```
+```
+brew cask install visual-studio-code
+```
 * update VSCode
 ### Install VSCode extensions
 * Andromeda Theme
