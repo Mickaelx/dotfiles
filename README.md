@@ -65,6 +65,9 @@ brew install fortune
 ```
 brew install cowsay
 ```
+```
+brew cask install alfred
+```
 latest version of git
 ```
 brew install git
