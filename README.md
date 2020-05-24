@@ -50,7 +50,7 @@ brew install vcprompt
 ```
 brew cask install visual-studio-code
 ```
-* update VSCode
+
 ### Install VSCode extensions
 * Andromeda Theme
 * Live Server
