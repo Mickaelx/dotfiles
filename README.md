@@ -1,4 +1,4 @@
-# OXs bash profile #
+# **OXs bash profile**
 
 Steps: 
 1. `HomeBrew`
