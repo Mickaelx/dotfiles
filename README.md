@@ -63,6 +63,7 @@ brew cask install iterm2
 ```bash
 npm install -g tldr
 ```
+more info here : https://tldr.sh/
 
 ### useless (but funny)
 ```bash
