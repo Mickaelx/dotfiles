@@ -19,11 +19,10 @@ xcode-select --install
 brew update
 ```
 
+### iTerm2 profile preferences
 ```
 brew cask install iterm2
 ```
-### iTerm2 profile preferences
-
 * General > Working Directory > Reuse previous session's directory
 * Colors > Foreground (#00ff00)
 * Text > Font: Anonymous Pro, 16px
