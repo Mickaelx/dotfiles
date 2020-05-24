@@ -82,6 +82,13 @@ brew cask install visual-studio-code
 ```
 
 ### Install VSCode extensions
+
+If you wanna automate this process, create a vs-extensions.txt and put in every extensions you want. 
+
+Then, you can automate your process by using this following command:
+```
+while read line; do --install-extension "$line"; done < vs-extensions.txt
+```
 * Andromeda Theme
 * Live Server
 * Material Icon Theme
