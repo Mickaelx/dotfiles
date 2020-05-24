@@ -3,9 +3,11 @@
 Steps: 
 1. `HomeBrew`
 
-2. `iTerm2 & tweaking it a bit`
+2. `Change default shell to bash`
 
-3. `VSCode + extensions`
+3. `iTerm2 & tweaking it a bit`
+
+4. `VSCode + extensions`
 
 ## 
 ```
@@ -19,6 +21,31 @@ xcode-select --install
 ```
 ```
 brew update
+```
+
+### Changing default shell to bash
+
+Install latest version of bash on your machine
+```
+brew install bash
+```
+
+Locate where your bash is installed
+```
+which bash
+```
+
+Edit that file by entering this command
+```
+sudo nano /etc/shells
+```
+
+Comment out all shell by default and add current location of latest bash version that you just installed, which is probably:
+`/usr/local/bin/bash`
+
+Last but not least, change shell with this command:
+```
+chsh -s /usr/local/bin/bash
 ```
 
 ### iTerm2 profile preferences
