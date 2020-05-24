@@ -1,6 +1,5 @@
 # OXs bash profile
 
-## 
 1. `HomeBrew`
 
 2. `iTerm2 & tweaking it a bit`
