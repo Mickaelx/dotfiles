@@ -87,6 +87,7 @@ brew install vcprompt
 ```bash
 brew cask install visual-studio-code
 ```
+After installation, launch VS Code. Now open the Command Palette (F1 or ⇧+⌘+P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
 
 ### Install VSCode extensions
 
