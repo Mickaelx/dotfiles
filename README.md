@@ -108,5 +108,10 @@ while read line; do --install-extension "$line"; done < vs-extensions.txt
 * PHP Namespace Resolver (Mehedi Hassan)
 * Twig Language 2 (mblode)
 
+### setup xCode
+
+Upcoming.
+
 ### Final result: 
-![Image iTerm2](https://lh3.googleusercontent.com/YNrZDkuK7Gz2Vs1nTRTEoI6NpNg-51Opoe0LIa7jmDWN5rmMlcNnvhl1qDyjPoAvm6kdH7gp7FOE2mWQkPtOkdRq4cT5NnZSGGTug8oKh0HWQSwFg-wodLABr4b7HHZYiMNzBWi12S4MU9iwU-6IVaPm8tkt2ugn5cZKMkax8XEwNIZs9-Nr-WfbB48xAMBHH6M26Y7Acd2JKlWt752zmtdgYLXkj_PnspZR94mpkzx0AufdlJLQEnelVLmucT75Vjp_gsCsll_asGrY8qtMOEOADuWqfHU1XDVkrG7YWAwuF00UjWf24C_siZw2gGbyvCgR17NVHK8kpvwSFxSxNIMnC1eRDMhnV8Vfg2Hz3TyH1Oh6J4aGmjP3Nt_5Ut4bsfV413QZpi8WrMgUwwVOy3trhsg1K3rjghQ1vB4bhp5xIwnTCu1V5xgDNuZgJQ08zeXZMeQenTQTBR2avIdYYypiiYLeFcDOPNEzLgb2oxGdcxrKOO-yZsmT44vG-7yFvENL4NLd06dc5YR-D7e9b9cjIuOSNzaGl6hvyr3CmhgkhSbpf_TEnXm_kLaSRBUgw7w-3H7aeBExICQmUYRnM-si1EJQzetRMTCaNhP_uWzL7uWlkNhFr55G7YJmjmmYaEW0yyR3aJ_Pkm2OD2rjzsNW57i3MorUgkWtRRoppEe0tzAO_wfj9ddlVU4PSA=w1456-h848-no?authuser=0)
+
+Upcoming.
