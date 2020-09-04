@@ -73,6 +73,9 @@ brew install fortune
 brew install cowsay
 ```
 ```bash
+brew cask install stats
+```
+```bash
 brew cask install alfred
 ```
 latest version of git
